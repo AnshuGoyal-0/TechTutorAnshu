@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Anshu Goyal
 #### Anshu Goyal is a motivated individual currently enrolled in the BCA 1 semester at IGNOU University. With a disciplined routine, Anshu starts the day at 6 am, engaging in home workouts, writing, drawing, and immersing in novels like "Surrounded By Idiots" and "Ikigai." Balancing academic pursuits with a passion for creative expressions, Anshu is on a journey of self-improvement and exploration. If you're looking for someone dedicated to both academia and the arts, Anshu is the person to connect with!
-![Anshu Goyal is a motivated individual currently enrolled in the BCA 1 semester at IGNOU University. With a disciplined routine, Anshu starts the day at 6 am, engaging in home workouts, writing, drawing, and immersing in novels like "Surrounded By Idiots" and "Ikigai." Balancing academic pursuits with a passion for creative expressions, Anshu is on a journey of self-improvement and exploration. If you're looking for someone dedicated to both academia and the arts, Anshu is the person to connect with!](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
