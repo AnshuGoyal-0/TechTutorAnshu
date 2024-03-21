@@ -6,8 +6,11 @@
 - 🔭 I’m currently working on **Artificial Intelligence**
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+[The Curious Mind](https://thecuriousminddiaries.blogspot.com/)
+
+### Website
+[Anshu Goyal](https://sites.google.com/view/bytementor/me)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
