@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Anshu Goyal</h1>
-<h3 align="center">Anshu Goyal is a motivated individual currently enrolled in the BCA 1 semester at IGNOU University. With a disciplined routine, Anshu starts the day at 6 am, engaging in home workouts, writing, drawing, and immersing in novels like "Surrounded By Idiots" and "Ikigai." Balancing academic pursuits with a passion for creative expressions, Anshu is on a journey of self-improvement and exploration. If you're looking for someone dedicated to both academia and the arts, Anshu is the person to connect with!</h3>
+<h3 align="center">Anshu Goyal is a motivated individual With a disciplined routine, Anshu starts the day at 6 am, engaging in home workouts, writing, drawing, and immersing in novels like "Surrounded By Idiots" and "Ikigai." Balancing academic pursuits with a passion for creative expressions, Anshu is on a journey of self-improvement and exploration. If you're looking for someone dedicated to both academia and the arts, Anshu is the person to connect with!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techtutoranshu&label=Profile%20views&color=0e75b6&style=flat" alt="techtutoranshu" /> </p>
 
