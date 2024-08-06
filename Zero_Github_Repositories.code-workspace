@@ -20,5 +20,7 @@
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"files.autoSave": "onFocusChange"
+	}
 }
