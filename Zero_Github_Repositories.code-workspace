@@ -22,5 +22,10 @@
 	],
 	"settings": {
 		"files.autoSave": "onFocusChange"
+	},
+	"extensions": {
+		"recommendations": [
+			"souche.vscode-mindmap"
+		]
 	}
 }
