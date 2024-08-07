@@ -18,6 +18,10 @@
 		{
 			"name": "TechTutorAnshu",
 			"path": "."
+		},
+		{
+			"name": "ZCOMPUTERS",
+			"path": "../ZCOMPUTERS"
 		}
 	],
 	"settings": {
