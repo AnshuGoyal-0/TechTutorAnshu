@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../Zero_Diary"
+		},
+		{
+			"name": "TechTutorAnshu",
+			"path": "."
+		},
+		{
+			"name": "Practice",
+			"path": "../Practice"
+		},
+		{
+			"name": "PROJECT",
+			"path": "../PROJECT"
+		}
+	],
+	"settings": {}
+}
