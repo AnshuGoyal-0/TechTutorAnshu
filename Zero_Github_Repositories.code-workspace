@@ -1,44 +1,7 @@
 {
-	"folders": [
-		{
-			"name": "Practice",
-			"path": "../Practice"
-		},
-		{
-			"path": "../Zero_Diary"
-		},
-		{
-			"name": "Students",
-			"path": "../Students"
-		},
-		{
-			"name": "PROJECT",
-			"path": "../PROJECT"
-		},
-		{
-			"name": "TechTutorAnshu",
-			"path": "."
-		},
-		{
-			"name": "ZCOMPUTERS",
-			"path": "../ZCOMPUTERS"
-		}
-	],
-	"settings": {
-		"files.autoSave": "onFocusChange"
-	},
-	"extensions": {
-		"recommendations": [
-			"souche.vscode-mindmap",
-			"cweijan.vscode-typora",
-			"ms-python.python",
-			"pkief.material-icon-theme",
-			"esbenp.prettier-vscode",
-			"ms-toolsai.vscode-jupyter-slideshow",
-			"ms-toolsai.jupyter-renderers",
-			"ms-toolsai.vscode-jupyter-cell-tags",
-			"ms-toolsai.jupyter",
-			"teabyii.ayu"
-		]
-	}
+    "folders": [
+        {
+            "path": ".."
+        }
+    ]
 }
